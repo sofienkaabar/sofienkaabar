@@ -24,14 +24,14 @@ An evidence-based objective approach for Technical Analysis using Python. A must
 
 ## 📄 Research Papers
 
-Kaabar (2026). Sequential Pattern Averaging Regressor: A Lookup-Based Method for Structural Price Prediction.
-Kaabar (2026). Extrema Precision 2.0: A Framework for Evaluating Reversal Signal Localization.
-Kaabar (2026). A Comparative Analysis of Linear Regression and DLinear for Time Series Forecasting.
-Kaabar (2026). Eliminating Subjectivity in Moving Average Crossovers via Symmetric Weighted Filters.
-Kaabar (2026). Standard RSI vs. Bollinger-Filtered RSI: A Comparative Market Timing Analysis.
-Kaabar (2025). Magic Numbers or Market Noise? Deconstructing the TD Setup in Time Series Predictions.
-Kaabar (2025). Quantifying Market Timing Accuracy with the Extrema Precision Index (EPI).
-Kaabar (2025). Quantifying Exhaustion: A Regime-Dependent Analysis of TD Sequential and RSI Filters.
+Kaabar (2026). Sequential Pattern Averaging Regressor: A Lookup-Based Method for Structural Price Prediction.<br>
+Kaabar (2026). Extrema Precision 2.0: A Framework for Evaluating Reversal Signal Localization.<br>
+Kaabar (2026). A Comparative Analysis of Linear Regression and DLinear for Time Series Forecasting.<br>
+Kaabar (2026). Eliminating Subjectivity in Moving Average Crossovers via Symmetric Weighted Filters.<br>
+Kaabar (2026). Standard RSI vs. Bollinger-Filtered RSI: A Comparative Market Timing Analysis.<br>
+Kaabar (2025). Magic Numbers or Market Noise? Deconstructing the TD Setup in Time Series Predictions.<br>
+Kaabar (2025). Quantifying Market Timing Accuracy with the Extrema Precision Index (EPI).<br>
+Kaabar (2025). Quantifying Exhaustion: A Regime-Dependent Analysis of TD Sequential and RSI Filters.<br>
 Kaabar (2025). Phase-Preserving Denoising in Financial Time Series: Singular Spectrum Analysis and Linear Moving Averages.
 
 ---
