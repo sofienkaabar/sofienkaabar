@@ -1,8 +1,8 @@
 # Sofien Kaabar, CFA
 
-## Quant Atlas
+## **[Quant Atlas](https://www.quant-atlas.com)** - An Interactive Quantitative Forecasting Platform
 
-**[Quant Atlas](https://www.quant-atlas.com)** is a quantitative forecasting platform focused on systematic models, data-driven insights, and high-quality charting across financial markets.
+Quant Atlas is a quantitative forecasting platform focused on systematic models, data-driven insights, and high-quality charting across financial markets. Forecasts are delivered through charts multiple times a day. A **Free trial** is available.
 
 <p align="center">
   <img src="./assets/1.png" width="250"/>
