@@ -2,7 +2,7 @@
 
 ## Quant Atlas
 
-Quant Atlas is a quantitative forecasting platform focused on systematic models, data-driven insights, and high-quality charting across financial markets.
+**[Quant Atlas](https://www.quant-atlas.com)** is a quantitative forecasting platform focused on systematic models, data-driven insights, and high-quality charting across financial markets.
 
 <p align="center">
   <img src="./assets/1.png" width="250"/>
