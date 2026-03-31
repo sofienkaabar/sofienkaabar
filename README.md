@@ -12,7 +12,7 @@
 
 ## 📚 Books
 
-### Mastering Financial Markets with Python: New Horizons in Technical Analysis
+### **[Mastering Financial Markets with Python: New Horizons in Technical Analysis](https://amzn.to/4qClaDF)**
 
 An evidence-based objective approach for Technical Analysis using Python. A must have for any scientific-background traders interested in Technical Analysis.
 
