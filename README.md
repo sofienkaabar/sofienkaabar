@@ -2,7 +2,12 @@
 
 ## **[Quant Atlas](https://www.quant-atlas.com)** Institutional-Grade Market Forecasting Platform
 
-Quant Atlas is a 1) quantitative market forecasting platform, 2) alternative alpha capture dataset provider, and 3) view provider for brokers and trading platforms. Focused on a combination of quantitative, technical, and sentiment analyses, Quant Atlas delivers a second opinion for market professionals. **Free trials** are available.
+Quant Atlas is a 1) quantitative market forecasting platform,<br> 
+2) alternative alpha capture dataset provider,<br>
+3) view provider for brokers and trading platforms. <br>
+
+Focused on a combination of quantitative, technical, and sentiment analyses, Quant Atlas delivers a second opinion for market professionals. <br>
+**Free trials** are available.
 
 <p align="center">
   <img src="./assets/1.png" width="250"/>
